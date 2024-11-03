@@ -1,0 +1,6 @@
+extends: existence
+message: Spell out the unit from a million and higher.
+ignorecase: true
+level: warning
+tokens:
+  - '\d{1,3}(?:,\d{3}){2}(?:\.\d+)?\b|\b\d{7,9}(?:\.\d+)?'
