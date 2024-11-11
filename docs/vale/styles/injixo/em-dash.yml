@@ -1,0 +1,8 @@
+extends: existence
+message: "Don't use en dashes (–) or em dashes(––). Start a new sentence instead. To express a range, use from...to."
+nonword: true
+level: error
+tokens:
+  - '[—–]'
+  - '–'
+

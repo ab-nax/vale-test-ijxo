@@ -1,5 +1,5 @@
 extends: existence
-message: "Do you really, really, REALLY need to use an exlamation mark here?"
+message: "Do you really, really, REALLY need to use an exclamation mark here?"
 nonword: true
 level: error
 action:
