@@ -1,0 +1,7 @@
+extends: existence
+message: "Avoid semicolons."
+nonword: true
+scope: sentence
+level: suggestion
+tokens:
+  - ';'
