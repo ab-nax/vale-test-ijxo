@@ -27,3 +27,10 @@ It′s enough to drive you crazy if you let it <br>
 Mamma mia, mamma mia; mamma mia let me go!
 
 Avoid optional plural(s).
+
+Jolly good, old chap! Cancelling the Labelling of labour to favour anaemic manoeuvres is Colourfully cantankerous.
+
+The call center school
+The Call-Center school
+The call-center school
+Ein Satz ist ein Satz. Injixo ist injixo.

@@ -1,5 +1,5 @@
 extends: existence
-message: "Put a nonbreaking space between the number and the unit in '%s'."
+message: "Put a non-breaking space between the number and the unit in '%s'."
 nonword: true
 level: error
 tokens:

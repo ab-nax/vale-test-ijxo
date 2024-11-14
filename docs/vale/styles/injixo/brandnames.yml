@@ -1,0 +1,11 @@
+extends: substitution
+message: "Use the correct spelling for our brand names, i.e. '%s' instead of '%s'."
+level: warning
+ignorecase: false
+action:
+  name: replace
+swap:
+  "TCCS": "The Call Center School"
+  "The call center school": "The Call Center School"
+  "The [C|c]all-[C|c]enter [S|s]chool": "The Call Center School"
+  Injixo: injixo

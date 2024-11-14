@@ -1,0 +1,103 @@
+extends: substitution
+message: "Use American English: '%s' instead of '%s'."
+level: warning
+ignorecase: true
+capitalize: true
+action:
+  name: replace
+swap:
+  # 'our' to 'or'
+  colour: color
+  colours: colors
+  colouring: coloring
+  colourful: colorful
+  colourfully: colorfully
+  favour: favor
+  favours: favors
+  favouring: favoring
+  favourite: favorite
+  honour: honor
+  honours: honors
+  neighbour: neighbor
+  neighbours: neighbors
+  labour: labor
+  labours: labors
+  rumour: rumor
+  rumours: rumors
+  behaviour: behavior
+  behaviours: behaviors
+
+  # 'ise' to 'ize'
+  apologise: apologize
+  apologises: apologizes
+  apologised: apologized
+  apologising: apologizing
+  organisation: organization
+  organisations: organizations
+  organise: organize
+  organises: organizes
+  organised: organized
+  organising: organizing
+  recognise: recognize
+  recognises: recognizes
+  recognised: recognized
+  recognising: recognizing
+
+  # 'yse' to 'yze'
+  analyse: analyze
+  analyses: analyzes
+  analysed: analyzed
+  analysing: analyzing
+  paralyse: paralyze
+  paralyses: paralyzes
+  paralysed: paralyzed
+  paralysing: paralyzing
+
+  # Double 'L'
+  cancelled: canceled
+  cancelling: canceling
+  labelled: labeled
+  labelling: labeling
+  travelled: traveled
+  travelling: traveling
+
+  # 'ae' or 'oe' to 'e'
+  archaeology: archeology
+  aesthetic: esthetic
+  anaemia: anemia
+  anaemic: anemic
+  anaesthetic: anesthetic
+  manoeuvre: maneuver
+  manoeuvres: maneuvers
+  manoeuvred: maneuvered
+  manoeuvring: maneuvering
+
+  # 'ence' to 'ense'
+  defence: defense
+  offence: offense
+  licence: license
+  licences: licenses
+  licenced: licensed
+  licencing: licensing
+
+  # 'ogue' to 'og'
+  catalogue: catalog
+  catalogued: cataloged
+  cataloguing: cataloging
+  dialogue: dialog
+
+  # 're' to 'er'
+  centre: center
+  centres: centers
+  centred: centered
+  centring: centering
+  metre: meter
+  metres: meters
+  theatre: theater
+  theatres: theaters
+
+  # Other relevant terms
+  programme: program
+  programmes: programs
+
+
